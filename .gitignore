@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+# Customer-supplied inputs and captures; provide sanitized local copies when benchmarking.
+TransactionLogs_QA*.json
+cosmos db - web app screenshot.png
+
+# Generated or source PDF artifacts may contain environment-specific identifiers.
+*.pdf
